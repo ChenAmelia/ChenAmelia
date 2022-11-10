@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Java, JS, SpringBoot frame**
 
-- 👨‍💻 All of my projects are available at [https://chenamelia.github.io/Portfolio/](https://chenamelia.github.io/Portfolio/)
+- 👨‍💻 Please see my protofolio for all my projects [https://chenamelia.github.io/Portfolio/](https://chenamelia.github.io/Portfolio/)
 
-- 📫 How to reach me **liangchen_amelia@163.com**
+- 📫 Contact with me with **liangchen_amelia@163.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/chen-liang-458463221/](https://www.linkedin.com/in/chen-liang-458463221/)
+- 📄 If you want to know more about my experiences, please visit [https://www.linkedin.com/in/chen-liang-458463221/](https://www.linkedin.com/in/chen-liang-458463221/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
