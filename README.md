@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chen</h1>
-<h3 align="center">A passionate junior developer from China.</h3>
+<h3 align="center">A passionate junior developer.</h3>
 
 - 🔭 I’m currently working on **a full-stack project**
 
